@@ -111,6 +111,12 @@ The Master_Data sheet (35 columns, 1,002 rows) merges the cleaned student and ga
 └── README.md                     # This file
 ```
 
+## Team Members
+
+- Shreshta Saha
+- Shreya Sharma
+- Nisha Kumari
+
 ## License
 
-Add a license of your choice (e.g. MIT) if you intend this to be reused by others.
+This project is developed for educational and training purposes.
